@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: webcolor
-        image: fabricioveronez/web-page:blue
+        image: diptam93/apache2hello
         ports:
         - containerPort: 80
 ---
